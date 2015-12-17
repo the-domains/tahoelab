@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TahoeLab Skis and Snowboards]]></title>
+        <description><![CDATA[TahoeLab Skis and Snowboards]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Dec 2015 07:48:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The finest splitboards and snowboards in the world]]></title>
+            <description><![CDATA[<article><h1>The finest splitboards and snowboards in the world</h1><p>TahoeLab uses the highest quality materials and construction techniques to make unique, light, snappy, and bombproof snowboards/splitboards. Hand profiled bamboo cores and full sheets of carbon fiber give TahoeLab boards a distinct ride that's extremely durable yet super lively. TahoeLab is a rider owned company with a combined total of 30 years riding experience. Accompanied by engineering and business degrees, Lee Collins and Abe Greenspan are knowledgeable and passionate about building products that RIP and last. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63fd490173140c4edf1e5baca3345fa04f047bad.jpg"></article>]]></description>
+            <link>undefinedthe-finest-splitboards-and-snowboards-in-the-world/index.html</link>
+            <guid isPermaLink="false">582e7ab2-9cbe-45b4-b1ec-93a1e28e5c0d</guid>
+            <pubDate>Thu, 17 Dec 2015 07:48:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

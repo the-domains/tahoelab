@@ -2,12 +2,13 @@ name: TahoeLab
 favicon: null
 layout_spectrum: 0.9456740694586188
 typography_spectrum: 0.364670222857967
+title: TahoeLab Skis and Snowboards
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-46018582-1
   facebook: null
   twitter: null
 opengraph:

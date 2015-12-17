@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: TahoeLab Snowboards
-datePublished: '2015-12-17T08:21:38.911Z'
-dateModified: '2015-12-17T08:21:36.074Z'
+datePublished: '2015-12-17T08:49:01.832Z'
+dateModified: '2015-12-17T08:31:24.237Z'
 title: Snowboards
 author: []
 sourcePath: _posts/2015-12-17-tahoelab-snowboards.md

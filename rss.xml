@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[TahoeLab Skis and Snowboards]]></title>
-        <description><![CDATA[TahoeLab Skis and Snowboards]]></description>
+        <title><![CDATA[TahoeLab -Handmade Skis and Snowboards]]></title>
+        <description><![CDATA[TahoeLab -Handmade Skis and Snowboards]]></description>
         <link>https://thegrid.ai/tahoelab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 08:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 08:27:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tahoelab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The finest splitboards and snowboards in the world]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/tahoelab/the-finest-splitboards-and-snowboards-in-the-world/index.html</link>
             <guid isPermaLink="false">582e7ab2-9cbe-45b4-b1ec-93a1e28e5c0d</guid>
             <pubDate>Thu, 17 Dec 2015 07:48:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Skis]]></title>
+            <description><![CDATA[<article><h1>Skis</h1><p>TahoeLab Skis</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6fb146bb91189c1d3221a51c8ec3da2cec7037d2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/tahoelab/skis/index.html</link>
+            <guid isPermaLink="false">d448d9db-8550-4d6e-8423-d3df4b216b50</guid>
+            <pubDate>Thu, 17 Dec 2015 08:27:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Snowboards]]></title>

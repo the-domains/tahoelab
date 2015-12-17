@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-17T08:21:05.108Z'
-dateModified: '2015-12-17T08:20:58.831Z'
+description: TahoeLab Snowboards
+datePublished: '2015-12-17T08:21:38.911Z'
+dateModified: '2015-12-17T08:21:36.074Z'
 title: Snowboards
 author: []
 sourcePath: _posts/2015-12-17-tahoelab-snowboards.md

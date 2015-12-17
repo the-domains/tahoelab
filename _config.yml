@@ -1,6 +1,6 @@
 name: TahoeLab
 favicon: null
-layout_spectrum: 0.04379
+layout_spectrum: 0
 typography_spectrum: 0.41817
 title: TahoeLab Skis and Snowboards
 cta:
@@ -22,8 +22,8 @@ color:
     - '#f8f8f8'
     - '#bec2cb'
     - '#080607'
-  brandStrength: 0.5625
-  lightness: 0.8125
+  brandStrength: 0.75
+  lightness: 0.5
   saturation: 0.1875
   rhythmicContrast: 0.25
 purpose: []

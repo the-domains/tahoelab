@@ -1,0 +1,28 @@
+name: TahoeLab
+favicon: null
+layout_spectrum: 0.9456740694586188
+typography_spectrum: 0.364670222857967
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8749292932916433
+  lightness: 0.5825618817470968
+  saturation: 0.18098460650071502
+  rhythmicContrast: 0.29215340386144817
+purpose: []
